@@ -1,0 +1,40 @@
+# Environment variables / secrets
+.env
+*.env
+
+# Python
+venv/
+myenv/
+__pycache__/
+*.pyc
+
+# Node / React
+node_modules/
+dist/
+build/
+
+# Logs
+logs/
+*.log
+
+# Large data files
+
+*.xlsx
+*.zip
+*.rar
+
+# ML model files
+*.pkl
+*.joblib
+*.h5
+*.keras
+*.safetensors
+*.pt
+*.pth
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code local settings
+.vscode/
